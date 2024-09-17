@@ -1,0 +1,3 @@
+Set parameter TSPort to value 8500
+Set parameter TokenServer to value "licserverhpc.cineca.it"
+Error code 10009: Failed to connect to token server 'licserverhpc.cineca.it' (port 8500) - license file '/leonardo/home/userexternal/emorsell/gurobi.lic'.  Consult the Quick Start Guide for instructions on starting a token server.
