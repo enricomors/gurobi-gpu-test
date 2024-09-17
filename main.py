@@ -1,6 +1,5 @@
 import gurobipy as gp
 from gurobipy import GRB
-from scipy.sparse.csgraph import maximum_flow
 
 import gpuMonitor
 import numpy as np
